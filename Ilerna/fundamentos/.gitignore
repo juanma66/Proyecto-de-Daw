@@ -29,6 +29,14 @@ Latest commit d0f9781 on 25 May
 @stuartpb@shiftkey@SimonSiefke@TennyZhuang@venatoria@ro31337@Richienb@melonmanchan@kachick@gouthamve@jucrouzet@cheddar
 118 lines (88 sloc)  1.81 KB
   
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
+  
 # Logs
 logs
 *.log
